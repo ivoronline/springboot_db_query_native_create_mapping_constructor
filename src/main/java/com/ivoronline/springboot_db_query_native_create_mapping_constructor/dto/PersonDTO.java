@@ -1,4 +1,4 @@
-package com.ivoronline.springboot_db_query_native_create_mapping_constructor.entities;
+package com.ivoronline.springboot_db_query_native_create_mapping_constructor.dto;
 
 public class PersonDTO {
 
