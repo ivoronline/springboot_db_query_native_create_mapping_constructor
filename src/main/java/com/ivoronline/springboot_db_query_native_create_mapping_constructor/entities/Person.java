@@ -15,8 +15,8 @@ import javax.persistence.SqlResultSetMapping;
   classes = @ConstructorResult(
     targetClass = PersonDTO.class,
     columns     = {
-        @ColumnResult(name = "name"),
-        @ColumnResult(name = "age" )
+      @ColumnResult(name = "name"),
+      @ColumnResult(name = "age" )
     }
   )
 )
